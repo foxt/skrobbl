@@ -1,0 +1,26 @@
+{
+  "name": "skrobbl",
+  "version": "1.0.0",
+  "description": "NodeJS Last.fm scrobbler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thelmgn/skrobbl.git"
+  },
+  "keywords": [
+    "lastfm"
+  ],
+  "author": "theLMGN",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/thelmgn/skrobbl/issues"
+  },
+  "homepage": "https://github.com/thelmgn/skrobbl#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "node-notifier": "^7.0.2"
+  }
+}
